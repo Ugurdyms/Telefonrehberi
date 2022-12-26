@@ -11,11 +11,8 @@ namespace phoneBook
             Console.Clear();
             List<kisiBilgileri> rehber = new List<kisiBilgileri>
             {
-                new kisiBilgileri{Ad ="Yusuf Tolunay", Soyad=  "Çağlar",TelefonNo="0546"},
-                new kisiBilgileri{Ad ="Ahmet", Soyad=  "Dağ",TelefonNo="0543"},
-                new kisiBilgileri{Ad ="Mustafa", Soyad=  "Koç",TelefonNo="0544"},
-                new kisiBilgileri{Ad ="Savaş", Soyad=  "Karhal",TelefonNo="0545"},
-                new kisiBilgileri{Ad ="Cemalcan", Soyad=  "Ceylan",TelefonNo="0547"},
+                new kisiBilgileri{Ad ="Uğur", Soyad=  "DUYMUŞ",TelefonNo="0546"},
+              
             };
 
             
