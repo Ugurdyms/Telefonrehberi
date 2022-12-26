@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Yusuf Tolunay\\Desktop\\PatikaAlistirma\\phoneBook\\phoneBook.csproj": {}
+    "C:\\Users\\Uğur Duymuş\\Desktop\\PatikaAlistirma\\phoneBook\\phoneBook.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Yusuf Tolunay\\Desktop\\PatikaAlistirma\\phoneBook\\phoneBook.csproj": {
+    "C:\\Users\\Uğur Duymuş\\Desktop\\PatikaAlistirma\\phoneBook\\phoneBook.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Yusuf Tolunay\\Desktop\\PatikaAlistirma\\phoneBook\\phoneBook.csproj",
+        "projectUniqueName": "C:\\Users\\Uğur Duymuş\\Desktop\\PatikaAlistirma\\phoneBook\\phoneBook.csproj",
         "projectName": "phoneBook",
-        "projectPath": "C:\\Users\\Yusuf Tolunay\\Desktop\\PatikaAlistirma\\phoneBook\\phoneBook.csproj",
-        "packagesPath": "C:\\Users\\Yusuf Tolunay\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Yusuf Tolunay\\Desktop\\PatikaAlistirma\\phoneBook\\obj\\",
+        "projectPath": "C:\\Users\\Uğur Duymuş\\Desktop\\PatikaAlistirma\\phoneBook\\phoneBook.csproj",
+        "packagesPath": "C:\\Users\\Uğur Duymuş\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Uğur Duymuş\\Desktop\\PatikaAlistirma\\phoneBook\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Yusuf Tolunay\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Uğur Duymuş\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
